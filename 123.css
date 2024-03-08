@@ -1,0 +1,43 @@
+{
+    margin: 0;;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(new1.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold
+}
+.box{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 700x;
+    border: 1px solid rgba(247, 243, 243, 0.493);
+    backdrop-filter: blur(2px);
+h1{
+    color: rgb(252, 0, 0);
+}
+.textboxstyle1{
+    background: transparent;
+}
+.textboxstyle2{
+    background: transparent;
+}
+.button1{
+    background: transparent;
+}
+.button2{
+    width: 150px;
+    height: 35px;
+    background-color: rgba(255, 0, 191, 0.897);
+    border-radius: 5px;
+}
